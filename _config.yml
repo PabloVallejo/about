@@ -3,7 +3,7 @@ baseurl: "" # the name of your github repo
 url: "https://pablovallejo.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
-title: "Pablo Vallejo -- Engineering Manager and Cyclist"
+title: "Engineering Manager and Cyclist"
 description: About page for Pablo Vallejo
 
 # color theme for links
