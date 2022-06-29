@@ -4,7 +4,7 @@ url: "https://pablovallejo.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
 title: "Pablo Vallejo -- Engineering Manager and Cyclist"
-description: A Github Pages (Jekyll) template based on TailwindCSS
+description: About page for Pablo Vallejo
 
 # color theme for links
 theme-color: indigo # indigo|yellow|pink|green|stone|
@@ -28,7 +28,7 @@ nav-menu:
 # use false to turn off any social media links
 twitter: false
 facebook: false
-instagram: https://instagram.com/Vallejo_Pablo
+instagram: https://instagram.com/vallejo_pablo
 github: false
 linkedin: false
 medium: false

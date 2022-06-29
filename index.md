@@ -3,9 +3,21 @@ layout: page
 title: Pablo Vallejo
 permalink: /
 ---
-### Rider Team iBike
+### Rider [iBike Racing Team](https://www.veloibike.ca/en/)
 
 <img class="mx-auto w-full" src="{{site.baseurl}}/assets/img/279.jpg">
+
+<!-- Divider -->
+<div class="relative my-8">
+    <div class="absolute inset-0 flex items-center" aria-hidden="true">
+      <div class="w-full border-t border-gray-200"></div>
+    </div>
+    <div class="relative flex justify-center ">
+      <span class="bg-white px-2 text-gray-200">
+        <i class="text-xs far fa-square"></i>
+      </span>
+    </div>
+</div>
 
 * __Height__: 175 cm
 * __Weight__: 66kg
