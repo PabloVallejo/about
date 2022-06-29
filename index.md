@@ -5,13 +5,12 @@ permalink: /
 ---
 ### Rider Team iBike
 
+<img class="mx-auto w-full" src="{{site.baseurl}}/assets/img/279.jpg">
+
 * __Height__: 175 cm
 * __Weight__: 66kg
-* __Coach__: John Wakefield, UAE
+* __Coach__: [John Wakefield](http://www.uaeteamemirates.com/rider/john-wakefield/), UAE
 * __Riding style__: Sprinter, Puncher
-
-
-<img class="mx-auto w-1/2" src="{{site.baseurl}}/assets/img/279.jpg">
 
 ### 2022 results
 
