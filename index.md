@@ -23,6 +23,7 @@ permalink: /
 * __Weight__: 66kg
 * __Coach__: [John Wakefield](http://www.uaeteamemirates.com/rider/john-wakefield/), UAE
 * __Riding style__: Sprinter, Puncher
+* __Nationality__: Colombia 🇨🇴
 
 ### 2022 results
 
