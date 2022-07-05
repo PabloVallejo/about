@@ -1,4 +1,4 @@
-# change the followings to match your Github username and repo name
+nfio# change the followings to match your Github username and repo name
 baseurl: "" # the name of your github repo
 url: "https://pablovallejo.github.io" # the url of your github pages
 
@@ -33,7 +33,7 @@ github: false
 linkedin: false
 medium: false
 google-scholar: false
-email: false
+email: pabloninety@gmail.com
 
 # footer information
 footer-msg: ""
