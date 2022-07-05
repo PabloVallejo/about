@@ -33,7 +33,7 @@ github: false
 linkedin: false
 medium: false
 google-scholar: false
-email: "pabloninety@gmail.com"
+email: mailto:pabloninety@gmail.com
 
 # footer information
 footer-msg: ""
